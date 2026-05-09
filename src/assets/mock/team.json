@@ -1,0 +1,48 @@
+{
+  "team": [
+    {
+      "id": 1,
+      "nome": "Dott. Marco Ferretti",
+      "titolo": "Dott.",
+      "ruolo": "Direttore Sanitario — Chirurgo Oculista",
+      "specializzazione": "Chirurgia refrattiva e del segmento anteriore",
+      "bio": "Specialista in Oftalmologia (Università di Milano, 2001). Ha eseguito oltre 4.500 interventi LASIK e PRK. Formazione avanzata in chirurgia della cataratta con IOL premium presso Centro Wills Eye Hospital, Philadelphia. Membro della Società Oftalmologica Italiana (SOI) e ESCRS.",
+      "anniEsperienza": 22,
+      "albo": "Ordine dei Medici di Milano n. 42187",
+      "competenze": ["LASIK / PRK / Trans-PRK", "Cataratta + IOL premium", "Cheratocono", "Chirurgia fachica"]
+    },
+    {
+      "id": 2,
+      "nome": "Dott.ssa Laura Conti",
+      "titolo": "Dott.ssa",
+      "ruolo": "Oculista — Retina e Macula",
+      "specializzazione": "Patologie retiniche, DMLE, diabete",
+      "bio": "Specializzata in Oftalmologia (Università di Pavia, 2008) con dottorato in Patologie della Retina. Esperta in OCT angiography, fluorangiografia e terapia anti-VEGF intravitreale. Ha pubblicato 18 lavori scientifici su riviste indicizzate.",
+      "anniEsperienza": 15,
+      "albo": "Ordine dei Medici di Milano n. 51034",
+      "competenze": ["OCT e OCT-A", "Fluorangiografia", "Iniezioni intravitreali", "Retinopatia diabetica", "DMLE"]
+    },
+    {
+      "id": 3,
+      "nome": "Dott. Stefano Russo",
+      "titolo": "Dott.",
+      "ruolo": "Oculista — Glaucoma e Neuroftalmologia",
+      "specializzazione": "Glaucoma, neuroftalmologia, ipertensione oculare",
+      "bio": "Laureato in Medicina a Bologna (2010), specializzazione in Oftalmologia a Milano nel 2015. Gestisce il percorso diagnosi-cura del glaucoma con tecnologie di ultima generazione (OCT RNFL, campo visivo Humphrey, tonometria 24h). Fellow della European Glaucoma Society.",
+      "anniEsperienza": 11,
+      "albo": "Ordine dei Medici di Milano n. 58920",
+      "competenze": ["Glaucoma ad angolo aperto e chiuso", "OCT nervo ottico", "Campo visivo computerizzato", "Neuroftalmologia"]
+    },
+    {
+      "id": 4,
+      "nome": "Silvia Moretti",
+      "titolo": "",
+      "ruolo": "Ortottista — Assistente in Oftalmologia",
+      "specializzazione": "Ortottica pediatrica, strabismo, riabilitazione visiva",
+      "bio": "Laurea triennale in Ortottica e Assistenza Oftalmologica (Università degli Studi di Milano, 2014). Specializzata nella gestione dello strabismo infantile, ambliopia e riabilitazione visiva post-chirurgica. Referente per la valutazione pediatrica e la sala diagnostica strumentale.",
+      "anniEsperienza": 10,
+      "albo": "Albo Professionale Ortottisti n. 1847",
+      "competenze": ["Strabismo e ambliopia", "Campo visivo", "Topografia corneale", "Ortottica bambini", "Riabilitazione visiva"]
+    }
+  ]
+}

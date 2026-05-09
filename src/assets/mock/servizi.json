@@ -1,0 +1,113 @@
+{
+  "categorie": [
+    { "id": "diagnostica", "nome": "Diagnostica e screening", "ordine": 1 },
+    { "id": "clinica", "nome": "Oculistica clinica", "ordine": 2 },
+    { "id": "imaging", "nome": "Imaging retinico e glaucoma", "ordine": 3 },
+    { "id": "contattologia", "nome": "Contattologia e ortottica", "ordine": 4 }
+  ],
+  "servizi": [
+    {
+      "id": 1,
+      "categoria": "diagnostica",
+      "nome": "Visita oculistica completa",
+      "descrizione": "Esame completo della vista con valutazione refrazione, motilità oculare, tonometria e fondo oculare. Include refrazione soggettiva e obiettiva.",
+      "durata": "45 min",
+      "prezzo": 120,
+      "featured": true
+    },
+    {
+      "id": 2,
+      "categoria": "diagnostica",
+      "nome": "Visita di controllo",
+      "descrizione": "Controllo per pazienti già in cura, verifica evoluzione patologie note e adeguamento terapia.",
+      "durata": "20 min",
+      "prezzo": 80
+    },
+    {
+      "id": 3,
+      "categoria": "diagnostica",
+      "nome": "Screening glaucoma",
+      "descrizione": "Valutazione pressione intraoculare (tonometria a soffio e Goldmann), analisi nervo ottico, campo visivo periferico.",
+      "durata": "40 min",
+      "prezzo": 150,
+      "featured": true
+    },
+    {
+      "id": 4,
+      "categoria": "clinica",
+      "nome": "Visita bambini (0-14 anni)",
+      "descrizione": "Esame completo adatto ai piccoli pazienti: strabismo, ambliopia, refrazione in cicloplegia, ortottica pediatrica.",
+      "durata": "60 min",
+      "prezzo": 130
+    },
+    {
+      "id": 5,
+      "categoria": "clinica",
+      "nome": "Visita pre-chirurgica",
+      "descrizione": "Valutazione candidatura per chirurgia refrattiva (LASIK, PRK, fachica) o cataratta. Include topografia corneale e biometria.",
+      "durata": "90 min",
+      "prezzo": 200,
+      "prezzoNote": "Deducibile come spesa sanitaria (19%)"
+    },
+    {
+      "id": 6,
+      "categoria": "clinica",
+      "nome": "Urgenza oculistica",
+      "descrizione": "Corpo estraneo, uveite acuta, occhio rosso con dolore, abbassamento improvviso della vista. Slot dedicati ogni mattina.",
+      "durata": "30 min",
+      "prezzo": 150,
+      "prezzoNote": "Disponibile mattina lun-ven, chiamare prima"
+    },
+    {
+      "id": 7,
+      "categoria": "imaging",
+      "nome": "OCT (Tomografia a coerenza ottica)",
+      "descrizione": "Analisi stratigrafica della retina e nervo ottico ad alta risoluzione. Indispensabile per macula, glaucoma, neuropatia ottica.",
+      "durata": "30 min",
+      "prezzo": 160,
+      "featured": true
+    },
+    {
+      "id": 8,
+      "categoria": "imaging",
+      "nome": "Fluorangiografia retinica",
+      "descrizione": "Studio della circolazione retinica con mezzo di contrasto fluorescente. Indicata per retinopatia diabetica, DMLE, occlusioni vascolari.",
+      "durata": "60 min",
+      "prezzo": 280,
+      "prezzoNote": "Richiede dilatazione pupillare, portare accompagnatore"
+    },
+    {
+      "id": 9,
+      "categoria": "imaging",
+      "nome": "Campo visivo computerizzato",
+      "descrizione": "Perimetria automatica per monitoraggio glaucoma, patologie neurologiche, retinopatie periferiche.",
+      "durata": "40 min",
+      "prezzo": 100
+    },
+    {
+      "id": 10,
+      "categoria": "imaging",
+      "nome": "Topografia corneale",
+      "descrizione": "Mappatura curvatura corneale per cheratocono, candidatura chirurgica, adattamento lenti a contatto speciali.",
+      "durata": "20 min",
+      "prezzo": 120
+    },
+    {
+      "id": 11,
+      "categoria": "contattologia",
+      "nome": "Adattamento lenti a contatto",
+      "descrizione": "Prima applicazione o cambio sistema: morbide giornaliere/mensili, gas-permeabili rigide, multifocali. Include kit prova.",
+      "durata": "60 min",
+      "prezzo": 140
+    },
+    {
+      "id": 12,
+      "categoria": "contattologia",
+      "nome": "Ortocheratologia (OrthoK)",
+      "descrizione": "Lenti notturne per controllo miopia nei bambini e giovani adulti. Prima visita + piano follow-up personalizzato.",
+      "durata": "90 min",
+      "prezzo": 350,
+      "prezzoNote": "Include 3 controlli nel primo mese"
+    }
+  ]
+}

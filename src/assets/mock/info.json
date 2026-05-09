@@ -1,0 +1,48 @@
+{
+  "ragioneSociale": "Centro Oculistico Sguardo S.r.l.",
+  "nomeCommerciale": "Centro Oculistico Sguardo",
+  "tagline": "Oculistica clinica, chirurgia refrattiva, OCT — Milano",
+  "alboProfessionale": "Albo dei Medici Chirurghi e degli Odontoiatri di Milano",
+  "indirizzo": {
+    "via": "Via Vittor Pisani 14",
+    "citta": "Milano",
+    "provincia": "MI",
+    "cap": "20124",
+    "regione": "Lombardia",
+    "paese": "Italia",
+    "lat": 45.4842,
+    "lng": 9.2043
+  },
+  "contatti": {
+    "telefono": "+39 02 8765 4321",
+    "email": "info@centrosguardo.it",
+    "pec": "centrosguardo@pec.it",
+    "social": {
+      "instagram": "https://instagram.com/centrosguardo_demo",
+      "facebook": "https://facebook.com/centrosguardo_demo",
+      "linkedin": "https://linkedin.com/company/centrosguardo_demo"
+    }
+  },
+  "orari": {
+    "lunedi": "08:30 – 13:00 / 14:30 – 18:00",
+    "martedi": "08:30 – 13:00 / 14:30 – 18:00",
+    "mercoledi": "08:30 – 13:00",
+    "giovedi": "08:30 – 13:00 / 14:30 – 18:00",
+    "venerdi": "08:30 – 13:00 / 14:30 – 17:00",
+    "sabato": "09:00 – 12:30",
+    "domenica": "Chiuso"
+  },
+  "servizi": {
+    "accessibileDisabili": true,
+    "parcheggioVicino": true,
+    "wifiGratuito": true,
+    "refertazioneOnline": true,
+    "telemedicina": false,
+    "pagamentoElettronico": true
+  },
+  "metaSeo": {
+    "title": "Centro Oculistico Sguardo — Oculistica, OCT, LASIK Milano",
+    "description": "Centro oculistico privato a Milano. Visite oculistiche, OCT, chirurgia refrattiva LASIK, intervento cataratta. 3 oculisti specialisti + ortottista.",
+    "keywords": ["oculista milano", "LASIK milano", "chirurgia refrattiva", "OCT retina", "intervento cataratta", "glaucoma screening"]
+  }
+}

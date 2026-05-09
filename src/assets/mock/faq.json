@@ -1,0 +1,44 @@
+{
+  "faq": [
+    {
+      "domanda": "Sono un buon candidato per la LASIK?",
+      "risposta": "I requisiti principali sono: età minima 21 anni, refrazione stabile da almeno 12 mesi, cornea con spessore adeguato (>480 micron), assenza di cheratocono e occhio secco grave. La visita pre-chirurgica (€200, scalabile dall'intervento) è l'unico modo per valutare la candidatura con certezza. Circa il 90% dei pazienti miopici è eleggibile.",
+      "categoria": "chirurgia"
+    },
+    {
+      "domanda": "Cos'è l'OCT e quando è necessario farlo?",
+      "risposta": "L'OCT (Tomografia a Coerenza Ottica) è un'indagine non invasiva che produce immagini stratigrafiche ad alta risoluzione della retina e del nervo ottico, simile a una RMN dell'occhio. È indicato per: controllo annuale dopo i 50 anni, diabetici, ipertesi, forti miopi (>-6), familiari con DMLE o glaucoma, qualunque sintomo di offuscamento visivo o metamorfopsia.",
+      "categoria": "diagnostica"
+    },
+    {
+      "domanda": "Come riconosco i sintomi del glaucoma?",
+      "risposta": "Il glaucoma primario ad angolo aperto (il più comune) è quasi sempre asintomatico nelle fasi iniziali: non causa dolore né abbassamento visivo percepito finché il danno non è avanzato. Per questo lo screening proattivo (tonometria + OCT nervo ottico) è fondamentale dopo i 40 anni, o prima se si hanno familiari con glaucoma. La forma acuta (ad angolo chiuso) invece causa dolore oculare intenso, visione offuscata e aloni intorno alle luci: è un'urgenza oculistica.",
+      "categoria": "clinica"
+    },
+    {
+      "domanda": "Mio figlio di 8 anni strizza gli occhi — quando portarlo dall'oculista?",
+      "risposta": "Subito. Lo strabismo e la miopia nei bambini vanno diagnosticati e trattati il prima possibile per evitare l'ambliopia (occhio pigro). La visita pediatrica include refrazione in cicloplegia (collirio per rilassare il muscolo ciliare) e valutazione ortottica. Consigliato il primo controllo entro i 3-4 anni anche in assenza di sintomi, poi ogni 2 anni se negativo.",
+      "categoria": "clinica"
+    },
+    {
+      "domanda": "Qual è il secondo parere per la cataratta?",
+      "risposta": "Offriamo valutazioni di secondo parere per pazienti che hanno già ricevuto indicazione chirurgica altrove. La visita include biometria completa e calcolo IOL indipendente. Il costo è €200. Spesso utile per scegliere il tipo di lente intraoculare (standard, premium multifocale, torica) in base alle proprie esigenze di vita quotidiana.",
+      "categoria": "chirurgia"
+    },
+    {
+      "domanda": "Le spese oculistiche sono detraibili?",
+      "risposta": "Sì. Le visite specialistiche, gli esami strumentali (OCT, fluorangiografia, campo visivo) e gli interventi chirurgici sono detraibili al 19% come spese sanitarie nella dichiarazione dei redditi, con franchigia €129,11. Rilasciamo sempre ricevuta fiscale o fattura elettronica. Le lenti a contatto terapeutiche (prescrizione medica) sono detraibili; occhiali da vista e lenti cosmetiche no.",
+      "categoria": "amministrativo"
+    },
+    {
+      "domanda": "Trattate i dati sanitari secondo il GDPR Art. 9?",
+      "risposta": "Sì. I dati sulla salute sono dati particolari ex Art. 9 GDPR e ricevono protezione rafforzata. Il trattamento avviene esclusivamente per finalità di cura (base giuridica: Art. 9 comma 2 lett. h). I referti sono conservati in fascicolo elettronico crittografato, accessibili solo al medico curante. Non cediamo mai dati a terzi per fini commerciali. Privacy policy completa disponibile in reception.",
+      "categoria": "amministrativo"
+    },
+    {
+      "domanda": "Offrite visite urgenti per occhio rosso o dolore improvviso?",
+      "risposta": "Sì. Ogni mattina (lun-ven 08:30-10:00) riserviamo slot per urgenze: occhio rosso con dolore, trauma oculare, corpo estraneo, abbassamento improvviso della vista, miodesopsie acute (mosche volanti improvvise). Chiamare al mattino al +39 02 8765 4321. Per perdita di vista improvvisa o dolore fortissimo, recarsi al Pronto Soccorso Oculistico più vicino.",
+      "categoria": "clinica"
+    }
+  ]
+}

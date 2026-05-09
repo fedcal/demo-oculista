@@ -1,0 +1,86 @@
+{
+  "interventi": [
+    {
+      "id": 1,
+      "tipo": "refrattiva",
+      "nome": "LASIK — Chirurgia Refrattiva Laser",
+      "descrizione": "La tecnica più diffusa per la correzione permanente di miopia, ipermetropia e astigmatismo. Utilizza laser a eccimeri per rimodellare la cornea con flap superficiale creato dal femtolaser.",
+      "indicazioni": [
+        "Miopia da -0,5 a -10 diottrie",
+        "Ipermetropia fino a +4 diottrie",
+        "Astigmatismo fino a 5 diottrie",
+        "Cornea con spessore adeguato (>480 micron)",
+        "Refrazione stabile da almeno 12 mesi",
+        "Età minima 21 anni"
+      ],
+      "controindicazioni": [
+        "Cheratocono o cornea irregolare",
+        "Sindrome dell'occhio secco grave",
+        "Malattie autoimmuni attive",
+        "Gravidanza o allattamento",
+        "Diabete non compensato"
+      ],
+      "prezzo": 1800,
+      "prezzoNote": "Prezzo per occhio. Detraibile 19% come spesa sanitaria. Include follow-up 1 mese.",
+      "durata": "15 min per occhio",
+      "recupero": "Visione utile entro 24-48h. Guida dopo 48h. Contatti sportivi dopo 1 mese."
+    },
+    {
+      "id": 2,
+      "tipo": "refrattiva",
+      "nome": "PRK / Trans-PRK",
+      "descrizione": "Alternativa alla LASIK per cornee sottili o morfologia non compatibile con flap. Stessa precisione, recupero visivo più graduale (5-7 giorni).",
+      "indicazioni": [
+        "Miopia da -0,5 a -8 diottrie",
+        "Cornea sottile non idonea a LASIK",
+        "Pratica di sport da contatto",
+        "Pazienti con pupille molto ampie"
+      ],
+      "controindicazioni": [
+        "Cheratocono",
+        "Cicatrici corneali pregresse",
+        "Miopia elevata (valutare caso per caso)"
+      ],
+      "prezzo": 1600,
+      "prezzoNote": "Prezzo per occhio. Include lente terapeutica e follow-up.",
+      "durata": "10 min per occhio",
+      "recupero": "Visione offuscata 4-7 giorni. Lente bendaggio rimossa al controllo del 5° giorno."
+    },
+    {
+      "id": 3,
+      "tipo": "cataratta",
+      "nome": "Facoemulsificazione — Cataratta",
+      "descrizione": "Intervento gold standard per la cataratta: rimozione del cristallino opacizzato tramite ultrasuoni e sostituzione con lente intraoculare (IOL) pieghevole. Anestesia topica, sutureless.",
+      "indicazioni": [
+        "Cataratta in qualsiasi stadio con impatto sulla qualità visiva",
+        "Cataratta intumescente o matura",
+        "Glaucoma secondario da cataratta",
+        "Correzione della refrazione abbinata (IOL premium)"
+      ],
+      "controindicazioni": [
+        "Infezione oculare in atto",
+        "Condizioni sistemiche di rischio chirurgico elevato",
+        "Rifiuto del paziente alla dilatazione farmacologica"
+      ],
+      "prezzo": 2500,
+      "prezzoNote": "Per occhio, lente standard inclusa. IOL premium (multifocale, torica): +€400-800.",
+      "durata": "20-30 min",
+      "recupero": "Vista utile entro 24-48h. Attività normale dopo 1 settimana. Evitare nuoto 4 settimane."
+    },
+    {
+      "id": 4,
+      "tipo": "cataratta",
+      "nome": "Visita pre-operatoria cataratta",
+      "descrizione": "Biometria, topografia corneale, calcolo IOL, esame endotelio corneale, valutazione rischio chirurgico. Necessaria prima di ogni intervento.",
+      "indicazioni": [
+        "Sempre obbligatoria prima dell'intervento",
+        "Almeno 15 giorni prima della data operatoria"
+      ],
+      "controindicazioni": [],
+      "prezzo": 200,
+      "prezzoNote": "Scalabile dal costo dell'intervento.",
+      "durata": "90 min",
+      "recupero": "Non applicabile"
+    }
+  ]
+}
