@@ -3,14 +3,14 @@
 Template **Angular 21 SSR** open-source per sito vetrina **Oculista** (PMI italiane).
 
 [![Demo live](https://img.shields.io/badge/demo-live-brightgreen)](https://oculista.demo.federicocalo.dev)
-[![Docs](https://img.shields.io/badge/docs-VitePress-blue)](https://fedcal.github.io/federico-demo-oculista/)
+[![Docs](https://img.shields.io/badge/docs-VitePress-blue)](https://fedcal.github.io/demo-oculista/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 
 ## Quick start
 
 ```bash
-git clone https://github.com/fedcal/federico-demo-oculista.git
-cd federico-demo-oculista
+git clone https://github.com/fedcal/demo-oculista.git
+cd demo-oculista
 npm install
 npm start
 ```
@@ -36,7 +36,7 @@ npm run serve:ssr:oculista
 
 ## Documentazione completa
 
-→ https://fedcal.github.io/federico-demo-oculista/
+→ https://fedcal.github.io/demo-oculista/
 
 ## Hub demos Federico
 
